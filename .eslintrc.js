@@ -7,7 +7,8 @@ module.exports = {
   extends: [
     'plugin:vue/essential',
     'airbnb-base',
-    'plugin:prettier/recommended'
+    'plugin:prettier/recommended',
+    'plugin:jest/recommended'
   ],
   parserOptions: {
     ecmaVersion: 'latest',
@@ -19,6 +20,7 @@ module.exports = {
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
     'vue/no-multiple-template-root': 'off',
-    'import/no-extraneous-dependencies': 'off'
+    'import/no-extraneous-dependencies': 'off',
+    'vue/multi-word-component-names': 'off'
   }
 }
