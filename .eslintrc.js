@@ -18,6 +18,7 @@ module.exports = {
   rules: {
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
-    'vue/no-multiple-template-root': 'off'
+    'vue/no-multiple-template-root': 'off',
+    'import/no-extraneous-dependencies': 'off'
   }
 }

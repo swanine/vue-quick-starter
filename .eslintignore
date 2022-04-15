@@ -14,3 +14,4 @@ pnpm-workspace.yaml
 
 /public/*
 test.js
+.eslintrc.js
