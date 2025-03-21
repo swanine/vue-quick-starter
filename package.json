@@ -1,7 +1,7 @@
 {
   "name": "vue-quick-start",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Swanine",
   "description": "Vue project template based on Vite and TSX",
   "scripts": {
